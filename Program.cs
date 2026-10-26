@@ -10,3 +10,5 @@ decimal amount = Convert.ToDecimal(Console.ReadLine());
 Console.WriteLine("\n--- Expense Details ---");
 Console.WriteLine($"Expense: {expenseName}");
 Console.WriteLine($"Amount: Rs. {amount}");
+
+Console.WriteLine("Category: Food");
