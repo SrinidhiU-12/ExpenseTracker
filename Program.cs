@@ -13,3 +13,4 @@ Console.WriteLine($"Amount: Rs. {amount}");
 
 Console.WriteLine("Category: Groceries");
 Console.WriteLine("Temporary change for stash practice"); Console.WriteLine("Payment feature added");
+Console.WriteLine("Master update for rebase");
