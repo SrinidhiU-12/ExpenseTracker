@@ -11,6 +11,4 @@ Console.WriteLine("\n--- Expense Details ---");
 Console.WriteLine($"Expense: {expenseName}");
 Console.WriteLine($"Amount: Rs. {amount}");
 
-Console.WriteLine("Category: Food");
-
-Console.WriteLine("Category: Snacks");
+Console.WriteLine("Category: Groceries");
