@@ -12,5 +12,4 @@ Console.WriteLine($"Expense: {expenseName}");
 Console.WriteLine($"Amount: Rs. {amount}");
 
 Console.WriteLine("Category: Food");
-
-Console.WriteLine("Category: Food1");
+Console.WriteLine("Category: Groceries");
